@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me amna68ashraf@gmail.com
-- 😄 Pronouns: Web Developments
+- 😄 Pronouns: Web Development
 - ⚡ Fun fact: I love to code even in bad mood. 
 
 <!---
